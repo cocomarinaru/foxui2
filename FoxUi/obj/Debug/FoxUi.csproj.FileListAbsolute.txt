@@ -8,3 +8,13 @@ E:\work\projects\FoxUi\FoxUi\obj\Debug\FoxUi.csproj.GenerateResource.Cache
 E:\work\projects\FoxUi\FoxUi\obj\Debug\FoxUi.csproj.CoreCompileInputs.cache
 E:\work\projects\FoxUi\FoxUi\obj\Debug\FoxUi.exe
 E:\work\projects\FoxUi\FoxUi\obj\Debug\FoxUi.pdb
+E:\work\projects\foxui2\FoxUi\bin\Debug\FoxUi.exe.config
+E:\work\projects\foxui2\FoxUi\bin\Debug\FoxUi.exe
+E:\work\projects\foxui2\FoxUi\bin\Debug\FoxUi.pdb
+E:\work\projects\foxui2\FoxUi\obj\Debug\FoxUi.csprojResolveAssemblyReference.cache
+E:\work\projects\foxui2\FoxUi\obj\Debug\FoxUi.FoxUI.resources
+E:\work\projects\foxui2\FoxUi\obj\Debug\FoxUi.Properties.Resources.resources
+E:\work\projects\foxui2\FoxUi\obj\Debug\FoxUi.csproj.GenerateResource.Cache
+E:\work\projects\foxui2\FoxUi\obj\Debug\FoxUi.csproj.CoreCompileInputs.cache
+E:\work\projects\foxui2\FoxUi\obj\Debug\FoxUi.exe
+E:\work\projects\foxui2\FoxUi\obj\Debug\FoxUi.pdb
